@@ -235,7 +235,8 @@ body {
 /* End Block 2 */
 
 /* Block 3 */
-.glass-block {
+.glass-block,
+.egg-block {
   padding: 60px 24px;
 }
 
